@@ -1,3 +1,3 @@
 function question(){
-    document.getElementById("output").textContent = "heheheha"
+    document.getElementById("output").innerHTML = "peeakaboo";
 }
